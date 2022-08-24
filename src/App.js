@@ -7,12 +7,12 @@ function Home() {
 	return (
 	  <div className="App d-flex flex-column justify-content-start  align-items-center">
 		<div className="mainImage  d-flex justify-content-space align-items-center">
-		  <div className="pvp-image text-center w-50">
+		  <div className="pvpImage text-center w-50 h-100 d-flex justify-content-center align-items-center">
 			<a href="#pvp" className="text-center">
 			  <img className="start-text" src={require("./assets/images/pvp.png")} alt="pvp image" />
 			</a>
 		  </div>
-		  <div className="official-image text-center w-50">
+		  <div className="officialImage text-center w-50 h-100 d-flex justify-content-center align-items-center">
 			<a href="#official" className="text-center">
 			  <img
 			  className="start-text"
@@ -195,7 +195,7 @@ function Home() {
 			<div className="w-100 text-center text-light">
 			  <h1 id="pvp">Metin2 PVP Servers</h1>
 			</div>
-			<div className="servers w-80 d-flex justify-content-center align-items-center flex-wrap mt-5 ">
+			<div className="servers pvpServers w-80 d-flex justify-content-center align-items-center flex-wrap mt-5 ">
 			  <div
 				className="card card-hover m-3 bg-dark text-light border-warning"
 				style={{ width: "18rem" }}
@@ -1151,7 +1151,7 @@ function Home() {
 			<h1 id="official" >Metin2 Official Servers</h1>
 			</div>
 	   
-			<div className="servers w-80 d-flex justify-content-center align-items-center flex-wrap mt-5 ">
+			<div className="servers officialServers w-80 d-flex justify-content-center align-items-center flex-wrap mt-5 ">
 			  <div
 				className="card card-hover m-3 bg-dark text-light border-warning"
 				style={{ width: "18rem" }}
