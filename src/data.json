@@ -1,63 +1,74 @@
 {
     "pvp-items":[
         {
+            
             "image-name":"zeta.png",
-            "description":"ZETA - 5kkk",
-            "price":"10"
+            "description":"ZETA - 5KKK",
+            "price":"10",
+            "server":"ZETA"
 
         },
         {
             "image-name":"aeldra.png",
-            "description":"AELDRA - 45kkk",
-            "price":"10"
+            "description":"AELDRA - 45KKK",
+            "price":"10",
+            "server":"AELDRA"
 
         },
         {
             "image-name":"origins.png",
-            "description":"ORIGINS - 150kkk",
-            "price":"10"
+            "description":"ORIGINS - 150KKK",
+            "price":"10",
+            "server":"ORIGINS"
 
         },
         {
             "image-name":"az.png",
             "description":"AZYRAH - 50WON",
-            "price":"10"
+            "price":"10",
+            "server":"AZYRAH"
 
         },
         {
             "image-name":"kmet.png",
-            "description":"KIMETSU - 400kkk",
-            "price":"10"
+            "description":"KIMETSU - 400KKK",
+            "price":"10",
+            "server":"KIMETSU"
 
         },
         {
             "image-name":"kronius.png",
-            "description":"KRONIUS - 400kkk",
-            "price":"100"
+            "description":"KRONIUS - 400KKK",
+            "price":"10",
+            "server":"KRONIUS"
 
         },
         {
             "image-name":"rod.png",
             "description":"RODNIA - 90B",
-            "price":"10"
+            "price":"10",
+            "server":"RODNIA"
 
         },
         {
             "image-name":"celestial.png",
-            "description":"CW2 - 1.1kk",
-            "price":"10"
+            "description":"CW2 - 1.1KK",
+            "price":"10",
+            "server":"CW2"
 
         },
         {
             "image-name":"RUBI.png",
-            "description":"RUBINUM - 140kkk",
-            "price":"10"
+            "description":"RUBINUM - 140KKK",
+            "price":"10",
+            "server":"RUBINUM"
 
         },
         {
             "image-name":"zelo.png",
-            "description":"ZELONIA - 35kkk",
-            "price":"10"
+            "description":"ZELONIA - 35KKK",
+            "price":"10",
+            "server":"ZELONIA"
 
         }
        
@@ -67,104 +78,120 @@
         {
             "image-name":"azrael.png",
             "description":"AZRAEL - 1WON",
-            "price":"0.95"
+            "price":"0.95",
+            "server":"AZRAEL"
 
         },
         {
             "image-name":"felis.png",
             "description":"FELIS - 1WON",
-            "price":"4.5"
+            "price":"4.5",
+            "server":"FELIS"
 
         },
         {
             "image-name":"teutonia.png",
             "description":"TEUTONIA - 1WON",
-            "price":"0.95"
+            "price":"0.95",
+            "server":"TEUTONIA"
 
         },
         {
             "image-name":"germania.png",
             "description":"GERMANIA - 1WON",
-            "price":"1.15"
+            "price":"1.15",
+            "server":"GERMANIA"
 
         },
         {
             "image-name":"europe.png",
             "description":"EUROPE - 1WON",
-            "price":"1.15"
+            "price":"1.15",
+            "server":"EUROPE"
 
         },
         {
             "image-name":"italy_.png",
             "description":"ITALY - 1WON",
-            "price":"0.9"
+            "price":"0.9",
+            "server":"ITALY"
 
         },
         {
             "image-name":"portugal.png",
             "description":"PORTUGAL - 1WON",
-            "price":"0.9"
+            "price":"0.9",
+            "server":"PORTUGAL"
 
         },
         {
             "image-name":"tigerghost_.png",
             "description":"TIGERGHOST - 1WON",
-            "price":"1.4"
+            "price":"1.4",
+            "server":"TIGERGHOST"
 
         },
         {
             "image-name":"arabc.png",
             "description":"ARABIC - 1WON",
-            "price":"1"
+            "price":"1",
+            "server":"ARABIC"
 
         },
         {
             "image-name":"carpat.png",
             "description":"CARPAT - 1WON",
-            "price":"1.1"
+            "price":"1.1",
+            "server":"CARPAT"
 
         },
         {
             "image-name":"Cesko.png",
             "description":"CESKO - 1WON",
-            "price":"1.1"
+            "price":"1.1",
+            "server":"CESKO"
 
         },
         {
             "image-name":"espania.png",
             "description":"ESPANIA - 1WON",
-            "price":"0.9"
+            "price":"0.9",
+            "server":"ESPANIA"
 
         },
         {
             "image-name":"magyar.png",
             "description":"MAGYAR - 1WON",
-            "price":"1.1"
+            "price":"1.1",
+            "server":"MAGYAR"
 
         },
         {
             "image-name":"polska.png",
             "description":"POLSKA - 1WON",
-            "price":"1.1"
+            "price":"1.1",
+            "server":"POLSKA"
 
         },
         {
             "image-name":"romania.png",
             "description":"ROMANIA - 1WON",
-            "price":"1.1"
+            "price":"1.1",
+            "server":"ROMANIA"
 
         },
         {
             "image-name":"tara.png",
             "description":"TARA - 1WON",
-            "price":"1.1"
+            "price":"1.1",
+            "server":"TARA"
 
         },
         {
             "image-name":"ruby.png",
             "description":"RUBY - 1WON",
-            "price":"70"
-
+            "price":"70",
+            "server":"RUBY"
         }
 
 
@@ -172,7 +199,7 @@
     ],
     "information":[
         {
-            "whatsapp":"+4407361192110"
+            "whatsapp":"https://wa.me/message/SABKVVNNR7OWL1"
         },
         {
             "discord":"https://discord.gg/wBSW9X27YP"
