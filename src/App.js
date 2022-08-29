@@ -448,7 +448,7 @@ function Home() {
 				 alt="pvp image"
 			   /></a>
   
-		  <div className="main-content w-100 bg-dark mt-1 d-flex justify-content-center align-items-center">
+		  <div className="main-content w-100 bg-dark mt-5 d-flex justify-content-center align-items-center">
 			<div
 			  id="carouselExampleInterval"
 			  className="carousel slide"
@@ -491,8 +491,8 @@ function Home() {
 			</div>
 			<img
 			  id="secureImage"
-			  src={require("./assets/images/3d.png")}
-			  className="d-block"
+			  src={require("./assets/images/payment.png")}
+			  className="d-block m-4"
 			  alt="..."
 			/>
 		  </div>
